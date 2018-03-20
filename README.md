@@ -12,5 +12,3 @@ Run `npm install` and then `npm start`.
 Today's word is: keeping me on read
 The definition is: When you view a text message and don't respond. Keeping the sender in "read" status without a reply.
 ```
-
-Times are in Pacific time.
