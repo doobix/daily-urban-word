@@ -1,0 +1,25 @@
+{
+  "name": "daily-urban-word",
+  "version": "1.0.0",
+  "description": "get the word of the day from Urban Dictionary",
+  "main": "daily-urban-word.js",
+  "scripts": {
+    "start": "node daily-urban-word.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doobix/daily-urban-word.git"
+  },
+  "author": "doobix",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/doobix/daily-urban-word/issues"
+  },
+  "homepage": "https://github.com/doobix/daily-urban-word#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "npm": "^5.7.1",
+    "request": "^2.83.0"
+  }
+}
